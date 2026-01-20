@@ -5,7 +5,7 @@
 [![Substack](https://img.shields.io/badge/Substack-Newsletter-FF6719?logo=substack&logoColor=white)](https://melnykk.substack.com)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0000--9931--9035-6FBF73?logo=orcid&logoColor=white)](https://orcid.org/0009-0000-9931-9035)
 [![Email](https://img.shields.io/badge/Email-melnykk@development.org.ua-D14836?logo=gmail&logoColor=white)](mailto:melnykk@development.org.ua)
-[![Platform](https://img.shields.io/badge/Platform-development.org.ua-2EA44F?logo=world&logoColor=white)](https://development.org.ua)
+[![Platform](https://img.shields.io/badge/Platform-development.org.ua-2EA44F?logo=world&logoColor=white)](https://www.villagez.online/)
 
 ---
 
