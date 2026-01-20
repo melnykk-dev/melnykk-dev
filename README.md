@@ -16,8 +16,8 @@ I’m Artem Melnyk — a 17‑year‑old student and developer from Canada, foun
 ---
 
 ## 🔎 Quick Stats
-[![Courses](https://img.shields.io/badge/Courses-28-brightgreen)](#)
-[![Lessons](https://img.shields.io/badge/Lessons-1550-blue)](#)
+[![Courses](https://img.shields.io/badge/Courses-1-brightgreen)](#)
+[![Lessons](https://img.shields.io/badge/Lessons-100-blue)](#)
 [![Focus](https://img.shields.io/badge/Focus-Education%20%7C%20Creative%20Tech-yellowgreen)](#)
 
 ---
@@ -57,12 +57,12 @@ flowchart LR
 
 ---
 
-## 🌟 Featured — ERTHIOX
-- Founder & Developer of ERTHIOX (28 courses, 1,550+ lessons)
+## 🌟 Featured — Villagez
+- Founder & Developer of ERTHIOX (interactive JavaScript learning platform)
 - Platform combines interactive code, video, and creative multimedia
-- Platform: https://development.org.ua
+- Platform: https://www.villagez.online/
 
-[Explore ERTHIOX Courses ➜](https://development.org.ua)
+[Explore ERTHIOX Courses ➜](https://www.villagez.online/)
 
 ---
 
