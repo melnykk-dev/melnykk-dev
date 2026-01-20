@@ -62,7 +62,7 @@ flowchart LR
 - Platform combines interactive code, video, and creative multimedia
 - Platform: https://www.villagez.online/
 
-[Explore ERTHIOX Courses ➜](https://www.villagez.online/)
+[Explore Villagez ➜](https://www.villagez.online/)
 
 ---
 
