@@ -9,9 +9,9 @@
 
 ---
 
-I’m Artem Melnyk — a 17‑year‑old student and developer from Canada, founder & developer of ERTHIOX: an interactive educational platform that combines coding, multimedia, and creative learning. ERTHIOX currently hosts 28 courses and over 1,550 lessons across IT, Science, Arts, and Music.
+I’m Artem Melnyk — a 17‑year‑old student and developer from Canada, founder & developer of Villagez: A place where everyone can learn JavaScript by leading their village. No boring articles, only interactive scenarios that actually work.
 
-[Visit ERTHIOX ➜](https://development.org.ua)
+[Visit Villagez ➜](https://www.villagez.online/)
 
 ---
 
@@ -80,21 +80,6 @@ I’m open to:
 - Mentorship or community workshops
 - Technical help with multimedia learning tools
 
-Email: melnykk@development.org.ua
+Email: erthioxx@proton.me
 
 ---
-
-## 📅 Roadmap (visual timeline)
-
-```mermaid
-gantt
-    title ERTHIOX Roadmap (high-level)
-    dateFormat  YYYY-MM-DD
-    section Platform
-    Content Expansion       :done,    des1, 2024-01-01, 2024-12-31
-    Interactive Features    :active,  des2, 2025-01-01, 2025-06-30
-    Mobile App Prototype    :         des3, 2025-07-01, 2025-12-31
-    section Community
-    Workshops & Outreach    :active,  com1, 2024-06-01, 2025-12-31
-    Substack Growth         :         com2, 2024-09-01, 2025-12-31
-```
