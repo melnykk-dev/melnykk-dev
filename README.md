@@ -1,4 +1,3 @@
-
 # 👋 Hi, I’m Artem Melnyk (melnykk-dev)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melnykkk/)
@@ -20,18 +19,43 @@
 
 ## 🛠️ Key Skills & Tech Stack
 
-| Skills | Tools & Tech |
-|--------|---------------|
-| Founder Leadership | JavaScript, TypeScript, Python |
-| EdTech Innovation | Docker, AI Systems, Web Platforms |
-| AI Learning Systems | HTML5, CSS3, Interactive Multimedia |
-| Product Strategy | Data-Driven UX, Scalable Platforms |
-| Research & Problem Solving | Computational Modeling, Applied Physics |
+Founder Leadership | EdTech Innovation | AI Learning Systems | Product Strategy | Research & Problem Solving
+
+Tools: JavaScript, TypeScript, Python, Docker, AI Systems, Web Platforms, HTML5, CSS3, Interactive Multimedia
+
+---
+
+## 🌐 Featured Projects
+
+- [ERTHIOX](https://www.villagez.online/) — Strategic hub for all EdTech initiatives, AI-driven, scalable platforms for personalized learning.
+- [Villagez](https://www.villagez.online/) — Interactive JavaScript learning platform; learn by leading your own virtual village. Platform combines **interactive code, video, and creative multimedia**.
+
+---
+
+## 📊 Metrics & Impact
+
+Courses: 1 | Lessons: 100 | Focus: Education | Creative Tech
+
+---
+
+## 🏆 Certifications & Achievements
+
+- Global Executive Leadership Program — U.S. Peace Corps: Elite program in **strategic decision-making, cross-cultural leadership, and venture scaling**.
+- Applied Science & Interdisciplinary Research Foundation: Foundation for AI integration, EdTech innovation, and scalable learning solutions.
+
+---
+
+## ✉️ Contact & Collaboration
+
+LinkedIn | Substack | ORCID | Email: **erthioxx@proton.me**
+
+Open to partnerships on **educational content, curricula, and platforms**, mentorship, community workshops, and technical collaboration on **AI-powered learning systems and multimedia tools**.
 
 ---
 
 ## 🗺️ Learning Flow / Student Journey
 
+```mermaid
 flowchart LR
   Start([Sign Up]) --> Explore[Explore Courses]
   Explore --> Enroll[Enroll in Course]
@@ -42,45 +66,3 @@ flowchart LR
   Cert --> Share[Share Portfolio]
   style Start fill:#fff3e0,stroke:#ff9800
   style Cert fill:#e3f2fd,stroke:#2196f3
-
-
-⸻
-
-🌐 Featured Projects
-
-ERTHIOX￼
-
-Strategic hub for all EdTech initiatives — AI-driven, scalable platforms for personalized learning.
-
-Villagez￼
-
-Interactive JavaScript learning platform — learn by leading your own virtual village. Platform combines interactive code, video, and creative multimedia.
-
-⸻
-
-📊 Metrics & Impact
-
-
-⸻
-
-🏆 Certifications & Achievements
-	•	Global Executive Leadership Program — U.S. Peace Corps
-Elite program in strategic decision-making, cross-cultural leadership, and venture scaling.
-	•	Applied Science & Interdisciplinary Research Foundation
-Foundation for AI integration, EdTech innovation, and scalable learning solutions.
-
-⸻
-
-✉️ Contact & Connect
-
-
-⸻
-
-🤝 Collaboration & Partnerships
-
-I’m open to:
-	•	Partnerships on educational content, curricula, and platforms
-	•	Mentorship, community workshops, and youth empowerment programs
-	•	Technical collaboration on AI-powered learning systems and multimedia tools
-
-Email: erthioxx@proton.me
