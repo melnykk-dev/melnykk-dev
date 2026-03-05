@@ -54,17 +54,17 @@ He is also an active researcher with a published [ORCID profile](https://orcid.o
 
 ## Ventures
 
-### Villagez — Free Global Learning Platform
-![Villagez Screenshot](villagez.png)
+### ERTHIOX — Free Global Learning Platform
 
 **Flagship Platform — Active**  
 
-Villagez is a free-to-access, web-based educational platform combining the course catalogue and certification infrastructure of Erthiox with a fully gamified user experience. Features include:
+ERTHIOX is a free-to-access, web-based educational platform combining the course catalogue and certification infrastructure of Erthiox with a fully gamified user experience. Features include:
 
 - Multiplayer web-based strategy game  
 - JavaScript coding environment with 100+ interactive cases  
 - Guided sandbox  
 - Platform-wide library and encyclopedia  
+and a lot more such as labs, CV letter writer etc. (updates weekly)
 
 | Stats | |
 | ----- | ----- |
@@ -72,8 +72,6 @@ Villagez is a free-to-access, web-based educational platform combining the cours
 | **Certificate Programmes** | 28 |
 | **Access Model** | Free |
 | **Global Reach** | Worldwide |
-
-[Visit villagez.online →](https://villagez.online)
 
 ---
 
