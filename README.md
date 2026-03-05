@@ -207,14 +207,6 @@ Gamified learning platform delivering Erthiox content through an interactive adv
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=melnykk-dev&show_icons=true&theme=github_dark&bg_color=0d1218&title_color=00d4ff&icon_color=7c3aed&text_color=a0c4d8&border_color=1e2d3d&hide_border=false" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melnykk-dev&layout=compact&theme=github_dark&bg_color=0d1218&title_color=00d4ff&text_color=a0c4d8&border_color=1e2d3d&hide_border=false" />
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=melnykk-dev&theme=github_dark" width="100%"/>
-
-<br/>
 
 <img src="https://streak-stats.demolab.com?user=melnykk-dev&theme=dark&background=0d1218&border=1e2d3d&ring=00d4ff&fire=7c3aed&currStreakLabel=00d4ff&sideLabels=6b8097&dates=6b8097" height="160" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=melnykk-dev&bg_color=0d1218&color=00d4ff&line=7c3aed&point=10b981&area=true&hide_border=false&border_color=1e2d3d" width="100%"/>
