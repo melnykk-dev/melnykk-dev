@@ -1,83 +1,146 @@
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melnykkk/)
-[![ERTHIOX LinkedIn](https://img.shields.io/badge/ERTHIOX-Company-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/company/erthiox/)
-[![Substack](https://img.shields.io/badge/Substack-Newsletter-FF6719?logo=substack&logoColor=white)](https://melnykk.substack.com)
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0000--9931--9035-6FBF73?logo=orcid&logoColor=white)](https://orcid.org/0009-0000-9931-9035)
-[![Email](https://img.shields.io/badge/Email-melnykk@development.org.ua-D14836?logo=gmail&logoColor=white)](mailto:melnykk@development.org.ua)
-[![Platform](https://img.shields.io/badge/Platform-development.org.ua-2EA44F?logo=world&logoColor=white)](https://www.villagez.online/)
+<p align="center">
+  <img src="artem.jpg" alt="Artem Melnyk" width="200" />
+</p>
+
+# Artem Melnyk  
+**Entrepreneur · EdTech Founder · Researcher**  
+Toronto, Canada · Born 2008 (age 17)  
+
+> *Transforming global access to education through technology*
 
 ---
 
-I’m Artem Melnyk — a 17‑year‑old student and developer from Canada, founder & developer of Villagez: A place where everyone can learn JavaScript by leading their village. No boring articles, only interactive scenarios that actually work.
+## Overview
 
-[Visit Villagez ➜](https://www.villagez.online/)
+Artem Melnyk (born 2008, Kyiv, Ukraine) is a Canadian-based entrepreneur and educational technology pioneer. He is the founder and CEO of **Erthiox** and creator of **Villagez**, a free, gamified global learning ecosystem currently serving learners across 31+ disciplines worldwide.  
 
----
+Operating at the intersection of technology, education, and scientific research, Melnyk has built a digital infrastructure designed to make high-quality, certified education freely accessible to anyone on the planet.  
 
-## 🔎 Quick Stats
-[![Courses](https://img.shields.io/badge/Courses-1-brightgreen)](#)
-[![Lessons](https://img.shields.io/badge/Lessons-100-blue)](#)
-[![Focus](https://img.shields.io/badge/Focus-Education%20%7C%20Creative%20Tech-yellowgreen)](#)
+He is also an active researcher with a published [ORCID profile](https://orcid.org/0009-0000-9931-9035), contributing to studies in environmental science, applied physics, and computational technologies. Melnyk has been recognized by the **United States Peace Corps** and represented Ukraine at governmental-level conferences organized by the Kyiv City State Administration.
 
----
-
-## 🎯 Mission
-Build accessible, creative, and practical learning experiences so anyone — young or old — can learn by doing. I focus on:
-- Accessible multimedia lessons
-- Hands-on coding projects
-- Cross-discipline creativity (IT ↔ Science ↔ Arts ↔ Music)
+> **“Education should be free. But it also shouldn't be boring. The future of learning isn't just about accessing information — it's about enjoying the process of acquiring it.”**  
+> — Artem Melnyk, Founder of Erthiox & Villagez
 
 ---
 
-## 🛠️ Tech & Tools (visual buttons)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](#) 
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](#) 
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](#) 
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](#) 
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](#) 
-[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](#)
+## Personal Information
+
+| Property | Details |
+| -------- | ------- |
+| **Born** | 2008 (age 17) |
+| **Nationality** | Ukrainian |
+| **Location** | Toronto, Ontario, Canada |
+| **Origin** | Kyiv, Ukraine |
+| **Languages** | English (Expert), Ukrainian (Fluent), Russian (Expert), French (Intermediate) |
 
 ---
 
-## 🗺️ Learning Flow / Student Journey
+## Professional Information
 
-```mermaid
-flowchart LR
-  Start([Sign Up]) --> Explore[Explore Courses]
-  Explore --> Enroll[Enroll in Course]
-  Enroll --> Learn[Follow Lessons]
-  Learn --> Practice[Practice & Projects]
-  Practice --> Review[Assessments & Feedback]
-  Review --> Cert[Certificate / Showcase]
-  Cert --> Share[Share Portfolio]
-  style Start fill:#fff3e0,stroke:#ff9800
-  style Cert fill:#e3f2fd,stroke:#2196f3
-```
+| Property | Details |
+| -------- | ------- |
+| **Title** | Founder & CEO |
+| **Companies** | [Erthiox](https://www.linkedin.com/company/erthiox/) · [Villagez](https://www.linkedin.com/company/villagez/) |
+| **Founded** | 2025 |
+| **Platform** | [villagez.online](https://villagez.online) |
+| **Email** | [melnykk.cooperation@gmail.com](mailto:melnykk.cooperation@gmail.com) |
 
 ---
 
-## 🌟 Featured — Villagez
-- Founder & Developer of ERTHIOX (interactive JavaScript learning platform)
-- Platform combines interactive code, video, and creative multimedia
-- Platform: https://www.villagez.online/
+## Research
 
-[Explore Villagez ➜](https://www.villagez.online/)
-
----
-
-## ✉️ Contact & Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melnykkk/)
-[![Substack](https://img.shields.io/badge/Subscribe-Substack-FF6719?logo=substack&logoColor=white)](https://melnykk.substack.com)
-[![ORCID](https://img.shields.io/badge/ORCID-Profile-6FBF73?logo=orcid&logoColor=white)](https://orcid.org/0009-0000-9931-9035)
-[![Email](https://img.shields.io/badge/Email-Say%20Hi-D14836?logo=gmail&logoColor=white)](mailto:melnykk.cooperation@gmail.com)
+| Property | Details |
+| -------- | ------- |
+| **ORCID** | [0009-0000-9931-9035](https://orcid.org/0009-0000-9931-9035) |
+| **Fields** | Applied Physics · Environmental Science · EdTech |
 
 ---
 
-## 🤝 Want to collaborate?
-I’m open to:
-- Partnerships on educational content and curricula
-- Mentorship or community workshops
-- Technical help with multimedia learning tools
+## Ventures
 
-Email: erthioxx@proton.me
+### Villagez — Free Global Learning Platform
+![Villagez Screenshot](villagez.png)
+
+**Flagship Platform — Active**  
+
+Villagez is a free-to-access, web-based educational platform combining the course catalogue and certification infrastructure of Erthiox with a fully gamified user experience. Features include:
+
+- Multiplayer web-based strategy game  
+- JavaScript coding environment with 100+ interactive cases  
+- Guided sandbox  
+- Platform-wide library and encyclopedia  
+
+| Stats | |
+| ----- | ----- |
+| **Total Courses** | 31+ |
+| **Certificate Programmes** | 28 |
+| **Access Model** | Free |
+| **Global Reach** | Worldwide |
+
+[Visit villagez.online →](https://villagez.online)
 
 ---
+
+### Companies
+
+| Company | Role | Description | Founded |
+| ------- | ---- | ----------- | ------- |
+| **[Erthiox](https://www.linkedin.com/company/erthiox/)** | Founder & CEO | E-learning content org responsible for all course material and certifications in Villagez ecosystem. Motto: *"Learn as fast as others dream."* | June 2025 |
+| **[Villagez](https://www.linkedin.com/company/villagez/)** | Founder & Creator | Gamified learning platform delivering Erthiox content via interactive adventure-style interface. Features full multiplayer integration, JavaScript coding game, and sandbox environment. | 2025 |
+
+---
+
+## Career Timeline
+
+| Year | Role & Organization | Description |
+| ---- | ----------------- | ----------- |
+| **2025–Present** | Erthiox · Founder & CEO | Leads all product strategy, platform engineering, content development, and partnerships. |
+| **2025 May–Jun** | Freelance · Web Developer | Built commercial websites across hospitality, retail, automotive sectors. |
+| **2025 Jun–Aug** | Newcomer Centre of Peel · Volunteer | Summer council member contributing to planning community programs. |
+| **2025 Aug** | Newcomer Centre of Peel · IT Workshop Host | Delivered IT workshops for newcomers, developed interactive simulations for career paths. |
+
+---
+
+## Skills Matrix
+
+| Technical Skills | Platforms & Tools | Languages |
+| ---------------- | ---------------- | -------- |
+| Web Development | React, TypeScript, Node.js | English, Ukrainian, Russian, French |
+| Game Dev | Roblox Studio, Phaser.js | — |
+| Data & Research | Python, MATLAB, Excel | — |
+| Educational Tech | LMS design, Gamification | — |
+| Design & UX | Figma, Adobe XD | — |
+| Project Mgmt | Agile, Scrum, Git | — |
+
+---
+
+## Awards & Recognition
+
+| Year | Award |
+| ---- | ----- |
+| 2024 | U.S. Peace Corps Executive Leadership Certificate — sole participant from Kyiv |
+| 2024–2025 | Honour Roll |
+| 2024–2025 | Certificate of Achievement in Entrepreneurship |
+| 2024–2025 | Certificate of Achievement in Science |
+
+---
+
+## Research & Publications
+
+- Environmental Science, Applied Physics, EdTech  
+- Published works available via [ORCID](https://orcid.org/0009-0000-9931-9035)  
+
+---
+
+## Profiles & Links
+
+- **LinkedIn:** [melnykkk](https://www.linkedin.com/in/melnykkk)  
+- **Medium:** [@melnykkk](https://melnykkk.medium.com/)  
+- **Substack:** [melnykk](https://melnykk.substack.com/)  
+- **Villagez Platform:** [villagez.online](https://villagez.online)  
+
+---
+
+<p align="center">
+  <img src="social.png" alt="Social Preview" width="400" />
+</p>
