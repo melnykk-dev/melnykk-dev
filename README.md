@@ -80,7 +80,7 @@ and a lot more such as labs, CV letter writer etc. (updates weekly)
 | Company | Role | Description | Founded |
 | ------- | ---- | ----------- | ------- |
 | **[Erthiox](https://www.linkedin.com/company/erthiox/)** | Founder & CEO | E-learning content org responsible for all course material and certifications in Villagez ecosystem. Motto: *"Learn as fast as others dream."* | June 2025 |
-| **[Villagez](https://www.linkedin.com/company/villagez/)** | Founder & Creator | Gamified learning platform delivering Erthiox content via interactive adventure-style interface. Features full multiplayer integration, JavaScript coding game, and sandbox environment. | 2025 |
+| **[Villagez](https://www.linkedin.com/company/villagez/)** | Founder & Creator | Gamified learning platform delivering Erthiox content via interactive adventure-style interface. Features full multiplayer integration, JavaScript coding game, and sandbox environment. | December 2025 |
 
 ---
 
