@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="artem.jpg" alt="Artem Melnyk" width="200" />
-</p>
-
 # Artem Melnyk  
 **Entrepreneur · EdTech Founder · Researcher**  
 Toronto, Canada · Born 2008 (age 17)  
