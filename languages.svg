@@ -1,0 +1,90 @@
+<svg width="800" height="240" viewBox="0 0 800 240" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="lbg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#161b22"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+    <linearGradient id="lg1" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#58a6ff"/>
+      <stop offset="100%" stop-color="#388bfd"/>
+    </linearGradient>
+    <linearGradient id="lg2" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#3fb950"/>
+      <stop offset="100%" stop-color="#2ea043"/>
+    </linearGradient>
+    <linearGradient id="lg3" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#d2a8ff"/>
+      <stop offset="100%" stop-color="#a371f7"/>
+    </linearGradient>
+    <linearGradient id="lg4" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ffa657"/>
+      <stop offset="100%" stop-color="#e3832a"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="800" height="240" rx="8" fill="url(#lbg)" stroke="#21262d" stroke-width="1"/>
+
+  <!-- Header -->
+  <text x="24" y="30" fill="#6e7681" font-family="monospace" font-size="10" font-weight="600" letter-spacing="2">LANGUAGE PROFICIENCY — CEFR SCALE</text>
+  <line x1="24" y1="40" x2="776" y2="40" stroke="#21262d" stroke-width="1"/>
+
+  <!-- Column headers -->
+  <text x="24"  y="58" fill="#6e7681" font-family="monospace" font-size="9" letter-spacing="1">LANGUAGE</text>
+  <text x="175" y="58" fill="#6e7681" font-family="monospace" font-size="9" letter-spacing="1">LEVEL</text>
+  <!-- Track: x=348 to x=730, width=382 -->
+  <!-- 6 CEFR levels → 5 gaps → 382/5 = 76.4px each -->
+  <!-- A1=348, A2=424, B1=501, B2=577, C1=653, C2=730 -->
+  <text x="348" y="58" fill="#6e7681" font-family="monospace" font-size="9" text-anchor="middle">A1</text>
+  <text x="424" y="58" fill="#6e7681" font-family="monospace" font-size="9" text-anchor="middle">A2</text>
+  <text x="501" y="58" fill="#6e7681" font-family="monospace" font-size="9" text-anchor="middle">B1</text>
+  <text x="577" y="58" fill="#6e7681" font-family="monospace" font-size="9" text-anchor="middle">B2</text>
+  <text x="653" y="58" fill="#6e7681" font-family="monospace" font-size="9" text-anchor="middle">C1</text>
+  <text x="730" y="58" fill="#6e7681" font-family="monospace" font-size="9" text-anchor="middle">C2</text>
+
+  <!-- Vertical dashed grid -->
+  <line x1="348" y1="63" x2="348" y2="226" stroke="#21262d" stroke-width="1" stroke-dasharray="3,5"/>
+  <line x1="424" y1="63" x2="424" y2="226" stroke="#21262d" stroke-width="1" stroke-dasharray="3,5"/>
+  <line x1="501" y1="63" x2="501" y2="226" stroke="#21262d" stroke-width="1" stroke-dasharray="3,5"/>
+  <line x1="577" y1="63" x2="577" y2="226" stroke="#21262d" stroke-width="1" stroke-dasharray="3,5"/>
+  <line x1="653" y1="63" x2="653" y2="226" stroke="#21262d" stroke-width="1" stroke-dasharray="3,5"/>
+  <line x1="730" y1="63" x2="730" y2="226" stroke="#21262d" stroke-width="1" stroke-dasharray="3,5"/>
+
+  <!-- ── Ukrainian — C2 ── -->
+  <text x="24"  y="88"  fill="#e6edf3" font-family="monospace" font-size="12" font-weight="600">Ukrainian</text>
+  <text x="175" y="82"  fill="#c9d1d9" font-family="monospace" font-size="11">Native Speaker</text>
+  <text x="175" y="95"  fill="#6e7681" font-family="monospace" font-size="9">Mother tongue</text>
+  <rect x="336" y="79" width="407" height="10" rx="5" fill="#21262d"/>
+  <rect x="336" y="79" width="407" height="10" rx="5" fill="url(#lg1)"/>
+  <rect x="749" y="72" width="34" height="18" rx="4" fill="rgba(88,166,255,0.15)" stroke="rgba(88,166,255,0.4)" stroke-width="1"/>
+  <text x="766" y="84" fill="#58a6ff" font-family="monospace" font-size="10" font-weight="700" text-anchor="middle">C2</text>
+
+  <!-- ── Russian — C2 ── -->
+  <text x="24"  y="130" fill="#e6edf3" font-family="monospace" font-size="12" font-weight="600">Russian</text>
+  <text x="175" y="124" fill="#c9d1d9" font-family="monospace" font-size="11">Native Speaker</text>
+  <text x="175" y="137" fill="#6e7681" font-family="monospace" font-size="9">Mother tongue</text>
+  <rect x="336" y="121" width="407" height="10" rx="5" fill="#21262d"/>
+  <rect x="336" y="121" width="407" height="10" rx="5" fill="url(#lg2)"/>
+  <rect x="749" y="114" width="34" height="18" rx="4" fill="rgba(63,185,80,0.15)" stroke="rgba(63,185,80,0.4)" stroke-width="1"/>
+  <text x="766" y="126" fill="#3fb950" font-family="monospace" font-size="10" font-weight="700" text-anchor="middle">C2</text>
+
+  <!-- ── English — C1 ── -->
+  <!-- C1 = position 653, fill width = 653-336 = 317 -->
+  <text x="24"  y="172" fill="#e6edf3" font-family="monospace" font-size="12" font-weight="600">English</text>
+  <text x="175" y="166" fill="#c9d1d9" font-family="monospace" font-size="11">Professional Working</text>
+  <text x="175" y="179" fill="#6e7681" font-family="monospace" font-size="9">Advanced proficiency</text>
+  <rect x="336" y="163" width="407" height="10" rx="5" fill="#21262d"/>
+  <rect x="336" y="163" width="317" height="10" rx="5" fill="url(#lg3)"/>
+  <rect x="670" y="156" width="34" height="18" rx="4" fill="rgba(210,168,255,0.15)" stroke="rgba(210,168,255,0.4)" stroke-width="1"/>
+  <text x="687" y="168" fill="#d2a8ff" font-family="monospace" font-size="10" font-weight="700" text-anchor="middle">C1</text>
+
+  <!-- ── French — A2–B1 ── -->
+  <!-- A2=424, B1=501, midpoint=462. Fill from 336 to ~462, width=126 -->
+  <text x="24"  y="214" fill="#e6edf3" font-family="monospace" font-size="12" font-weight="600">French</text>
+  <text x="175" y="208" fill="#c9d1d9" font-family="monospace" font-size="11">Elementary–Intermediate</text>
+  <text x="175" y="221" fill="#6e7681" font-family="monospace" font-size="9">In progress</text>
+  <rect x="336" y="205" width="407" height="10" rx="5" fill="#21262d"/>
+  <rect x="336" y="205" width="126" height="10" rx="5" fill="url(#lg4)"/>
+  <!-- tag floats just past the fill end -->
+  <rect x="470" y="198" width="46" height="18" rx="4" fill="rgba(255,166,87,0.15)" stroke="rgba(255,166,87,0.4)" stroke-width="1"/>
+  <text x="493" y="210" fill="#ffa657" font-family="monospace" font-size="9" font-weight="700" text-anchor="middle">A2–B1</text>
+</svg>

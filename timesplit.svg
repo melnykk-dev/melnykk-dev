@@ -1,0 +1,69 @@
+<svg width="400" height="260" viewBox="0 0 400 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="dbg" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#161b22"/><stop offset="100%" stop-color="#0d1117"/></linearGradient>
+  </defs>
+  <rect width="400" height="260" rx="8" fill="url(#dbg)" stroke="#21262d" stroke-width="1"/>
+  <text x="20" y="28" fill="#6e7681" font-family="monospace" font-size="10" font-weight="600" letter-spacing="2">TIME SPLIT</text>
+  <line x1="20" y1="38" x2="380" y2="38" stroke="#21262d" stroke-width="1"/>
+
+  <!-- Donut: center 140,155 r_outer=88 r_inner=54 -->
+  <!-- Segments: Building 38%, Research 28%, Teaching/Design 22%, Learning 12% -->
+  <!-- Angles in degrees, start from top (-90deg) -->
+  <!-- Building: 0 to 136.8deg -->
+  <!-- Research: 136.8 to 237.6deg -->
+  <!-- Teaching: 237.6 to 316.8deg -->
+  <!-- Learning: 316.8 to 360deg -->
+
+  <!-- Building 38% (#58a6ff): -90 to 46.8deg -->
+  <!-- start: 140+88*cos(-90)=140, 155+88*sin(-90)=67 -->
+  <!-- end:   140+88*cos(46.8)=200, 155+88*sin(46.8)=219 -->
+  <!-- inner start: 140+54*cos(-90)=140, 155+54*sin(-90)=101 -->
+  <!-- inner end: 140+54*cos(46.8)=177, 155+54*sin(46.8)=194 -->
+  <path d="M140,67 A88,88 0 0,1 200,219 L177,194 A54,54 0 0,0 140,101 Z" fill="#58a6ff"/>
+
+  <!-- Research 28% (#3fb950): 46.8 to 147.6deg -->
+  <!-- start: 140+88*cos(46.8)=200, 155+88*sin(46.8)=219 -->
+  <!-- end:   140+88*cos(147.6)=66, 155+88*sin(147.6)=202 -->
+  <!-- inner start: 177,194 -->
+  <!-- inner end: 140+54*cos(147.6)=95, 155+54*sin(147.6)=184 -->
+  <path d="M200,219 A88,88 0 0,1 66,202 L95,184 A54,54 0 0,0 177,194 Z" fill="#3fb950"/>
+
+  <!-- Teaching/Design 22% (#d2a8ff): 147.6 to 226.8deg -->
+  <!-- start: 66,202 -->
+  <!-- end: 140+88*cos(226.8)=80, 155+88*sin(226.8)=91 -->
+  <!-- inner: 95,184 → 140+54*cos(226.8)=103, 155+54*sin(226.8)=116 -->
+  <path d="M66,202 A88,88 0 0,1 80,91 L103,116 A54,54 0 0,0 95,184 Z" fill="#d2a8ff"/>
+
+  <!-- Learning 12% (#ffa657): 226.8 to 270deg (back to top) -->
+  <!-- start: 80,91 -->
+  <!-- end: 140,67 (top) -->
+  <!-- inner: 103,116 → 140,101 -->
+  <path d="M80,91 A88,88 0 0,1 140,67 L140,101 A54,54 0 0,0 103,116 Z" fill="#ffa657"/>
+
+  <!-- Center hole fill -->
+  <circle cx="140" cy="155" r="52" fill="#0d1117"/>
+
+  <!-- Center label -->
+  <text x="140" y="150" fill="#e6edf3" font-family="monospace" font-size="13" font-weight="700" text-anchor="middle">2025</text>
+  <text x="140" y="165" fill="#6e7681" font-family="monospace" font-size="9" text-anchor="middle">focus</text>
+
+  <!-- Legend -->
+  <rect x="255" y="68"  width="10" height="10" rx="2" fill="#58a6ff"/>
+  <text x="272" y="77"  fill="#c9d1d9" font-family="monospace" font-size="11">Building</text>
+  <text x="350" y="77"  fill="#8b949e" font-family="monospace" font-size="11" text-anchor="end">38%</text>
+
+  <rect x="255" y="90"  width="10" height="10" rx="2" fill="#3fb950"/>
+  <text x="272" y="99"  fill="#c9d1d9" font-family="monospace" font-size="11">Research</text>
+  <text x="350" y="99"  fill="#8b949e" font-family="monospace" font-size="11" text-anchor="end">28%</text>
+
+  <rect x="255" y="112" width="10" height="10" rx="2" fill="#d2a8ff"/>
+  <text x="272" y="121" fill="#c9d1d9" font-family="monospace" font-size="11">Teaching</text>
+  <text x="350" y="121" fill="#8b949e" font-family="monospace" font-size="11" text-anchor="end">22%</text>
+
+  <rect x="255" y="134" width="10" height="10" rx="2" fill="#ffa657"/>
+  <text x="272" y="143" fill="#c9d1d9" font-family="monospace" font-size="11">Learning</text>
+  <text x="350" y="143" fill="#8b949e" font-family="monospace" font-size="11" text-anchor="end">12%</text>
+
+  <!-- divider -->
+  <line x1="245" y1="48" x2="245" y2="240" stroke="#21262d" stroke-width="1"/>
+</svg>
