@@ -131,7 +131,9 @@ Learning          █████░░░░░░░░░░░░░░░�
 
 <br/>
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=melnykk-dev&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=8)](https://github.com/melnykk-dev)
+[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=melnykk-dev&theme=github_dark)](https://github.com/melnykk-dev)
+
+[![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=melnykk-dev&theme=github_dark)](https://github.com/melnykk-dev)&nbsp;&nbsp;[![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=melnykk-dev&theme=github_dark)](https://github.com/melnykk-dev)
 
 </div>
 
