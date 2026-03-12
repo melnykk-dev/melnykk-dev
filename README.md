@@ -14,7 +14,7 @@
 <br/>
 
 [![Collab](https://img.shields.io/badge/●_Open_to_Collaboration-0d1117?style=for-the-badge&logo=opensourceinitiative&logoColor=3fb950&labelColor=0d1117&color=3fb950)](mailto:melnykk.cooperation@gmail.com)&nbsp;
-[![Courses](https://img.shields.io/badge/31%2B_Courses_Created-0d1117?style=for-the-badge&logo=bookstack&logoColor=d2a8ff&labelColor=0d1117&color=d2a8ff)](https://villagez.online)
+![Courses](https://img.shields.io/badge/31%2B_Courses_Created-0d1117?style=for-the-badge&logo=bookstack&logoColor=d2a8ff&labelColor=0d1117&color=d2a8ff)
 
 </div>
 
