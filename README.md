@@ -9,13 +9,11 @@
 [![Toronto](https://img.shields.io/badge/Toronto%2C_Canada-161b22?style=flat-square&logo=googlemaps&logoColor=58a6ff&labelColor=0d1117)](https://github.com/melnykk-dev)&nbsp;
 [![Kyiv](https://img.shields.io/badge/From_Kyiv%2C_Ukraine-161b22?style=flat-square&logo=googlemaps&logoColor=ffd700&labelColor=0d1117)](https://github.com/melnykk-dev)&nbsp;
 [![Born](https://img.shields.io/badge/Born_2008-161b22?style=flat-square&labelColor=0d1117&color=161b22)](https://github.com/melnykk-dev)&nbsp;
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0000--9931--9035-a6ce39?style=flat-square&logo=orcid&logoColor=a6ce39&labelColor=0d1117)](https://orcid.org/0009-0000-9931-9035)&nbsp;
 [![Views](https://komarev.com/ghpvc/?username=melnykk-dev&style=flat-square&color=58a6ff&labelColor=0d1117&label=profile+views)](https://github.com/melnykk-dev)
 
 <br/>
 
 [![Collab](https://img.shields.io/badge/●_Open_to_Collaboration-0d1117?style=for-the-badge&logo=opensourceinitiative&logoColor=3fb950&labelColor=0d1117&color=3fb950)](mailto:melnykk.cooperation@gmail.com)&nbsp;
-[![Researcher](https://img.shields.io/badge/Published_Researcher-0d1117?style=for-the-badge&logo=googlescholar&logoColor=58a6ff&labelColor=0d1117&color=58a6ff)](https://orcid.org/0009-0000-9931-9035)&nbsp;
 [![Courses](https://img.shields.io/badge/31%2B_Courses_Created-0d1117?style=for-the-badge&logo=bookstack&logoColor=d2a8ff&labelColor=0d1117&color=d2a8ff)](https://villagez.online)
 
 </div>
@@ -107,10 +105,6 @@ recognized: U.S. Peace Corps  ·  Kyiv City State Administration
 ![Environmental Science](https://img.shields.io/badge/Environmental_Science-Data--driven_modelling_%26_analysis-3fb950?style=for-the-badge&labelColor=0d1117&logo=leaflet&logoColor=3fb950)
 ![EdTech](https://img.shields.io/badge/EdTech-Gamification_·_LMS_·_Accessibility-d2a8ff?style=for-the-badge&labelColor=0d1117&logo=bookstack&logoColor=d2a8ff)
 
-<br/>
-
-[![ORCID](https://img.shields.io/badge/Published_works_on_ORCID-0009--0000--9931--9035-a6ce39?style=for-the-badge&logo=orcid&logoColor=a6ce39&labelColor=0d1117)](https://orcid.org/0009-0000-9931-9035)
-
 </div>
 
 ---
@@ -165,8 +159,7 @@ recognized: U.S. Peace Corps  ·  Kyiv City State Administration
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0d1117)](https://www.linkedin.com/in/melnykkk)&nbsp;
 [![Villagez](https://img.shields.io/badge/villagez.online-0d1117?style=for-the-badge&logo=firefoxbrowser&logoColor=58a6ff&labelColor=0d1117)](https://villagez.online)&nbsp;
 [![Medium](https://img.shields.io/badge/Medium-0d1117?style=for-the-badge&logo=medium&logoColor=white&labelColor=0d1117)](https://melnykkk.medium.com/)&nbsp;
-[![Substack](https://img.shields.io/badge/Substack-0d1117?style=for-the-badge&logo=substack&logoColor=FF6719&labelColor=0d1117)](https://melnykk.substack.com/)&nbsp;
-[![ORCID](https://img.shields.io/badge/ORCID-0d1117?style=for-the-badge&logo=orcid&logoColor=a6ce39&labelColor=0d1117)](https://orcid.org/0009-0000-9931-9035)
+[![Substack](https://img.shields.io/badge/Substack-0d1117?style=for-the-badge&logo=substack&logoColor=FF6719&labelColor=0d1117)](https://melnykk.substack.com/)
 
 <br/><br/>
 
