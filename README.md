@@ -1,152 +1,34 @@
 <div align="center">
 
 # Artem Melnyk
-
 ### Founder & Lead Architect @ Erthiox | Philanthropist & Impact Volunteer
-
 ![Toronto](https://shields.io)
 ![Kyiv](https://shields.io)
-![Born](https://shields.io)
 
-[![Collab](https://shields.io●_Open_to_Charity_Collab-3fb950?style=for-the-badge&logo=opensourceinitiative&logoColor=ffffff&labelColor=0d1117)](mailto:melnykk.cooperation@gmail.com)
-[![LinkedIn](https://shields.ioConnect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=0d1117)](https://linkedin.com)
-[![Substack](https://shields.ioRead_the_Substack-FF6719?style=for-the-badge&logo=substack&logoColor=ffffff&labelColor=0d1117)](https://substack.com)
+[![LinkedIn](https://shields.io)](https://linkedin.com)
+[![Substack](https://shields.io)](https://substack.com)
 
 </div>
 
 ---
 
-<div align="center">
+## 💡 Profile Summary
 
-*"Education should be free. Because knowledge belongs to everyone, not just those who can afford it.*  
-*True innovation isn't built for profit — it's built to uplift, empower, and leave the community better than we found it."*
+Artem Melnyk (born 2008 in Kyiv, Ukraine) is a Toronto-based software engineer and educational technology innovator. As the founder of **Erthiox**, he creates open-source, high-performance educational systems designed for accessibility, focusing on tech equity and youth mentorship. His work is recognized by the U.S. Peace Corps and the Kyiv City State Administration.
 
-</div>
+**Key Focus Areas:**
+*   **Erthiox:** A free educational ecosystem featuring browser-native simulation labs (physics, chemistry) and Gamification Canvases.
+*   **Tech Equity:** Developing lightweight tools for low-income environments to bridge the digital divide.
+*   **Open Access:** Providing free, verifiable credentials and community workshop tools.
 
----
-
-## 💡 About & Impact Vision
-
-```yaml
-name:       Artem Melnyk
-handle:     melnykk · melnykk-dev
-born:       2008  ·  Kyiv, Ukraine
-based:      Toronto, Ontario, Canada
-role:       Founder & Lead Architect @ Erthiox  ·  Creator @ Villagez
-focus:      EdTech  ·  Applied Physics  ·  Environmental Science  ·  Systems Architecture
-mission:    Democratize technical education — no paywalls, no academic friction
-giving:     100% Free Open Education, Digital Equity, Youth Tech Mentorship
-recognized: U.S. Peace Corps  ·  Kyiv City State Administration
-```
-
----
-
-## 📊 Live Contribution & Impact Stats
-
-<div align="center">
-
-<img src="https://vercel.app" alt="Artem's GitHub Stats" />
-
-<img src="https://vercel.app" alt="Artem's Top Languages" />
-
-<img src="https://herokuapp.com" alt="Artem's Streak" />
-
-</div>
-
----
-
-## 🚀 Erthiox — Free, Open Technical Education Platform
-
-<div align="center">
-
-![Open](https://shields.io100%25-Open_%26_Free_Platform-3fb950?style=for-the-badge&labelColor=0d1117)
-![Courses](https://shields.io31%2B-Curated_Master_Courses-58a6ff?style=for-the-badge&labelColor=0d1117)
-![Labs](https://shields.io7-Interactive_STEM_Labs-d2a8ff?style=for-the-badge&labelColor=0d1117)
-![Credentials](https://shields.io1--Click-LinkedIn_Verifiable_Credentials-ffa657?style=for-the-badge&labelColor=0d1117)
-
-</div>
-
-**Breakthrough systems built to support non-profit & open-access initiatives:**
-
-| | Philanthropic Innovation | Social Impact Description |
-|---|---|---|
-| ✨ | **Constellations Gamification Canvas** | High-performance 60 FPS engine designed to keep vulnerable, self-taught students engaged without expensive tutors |
-| 🧪 | **Browser-Based Simulation Labs** | 7 client-side labs eliminating the need for expensive physical science equipment in underfunded school districts |
-| ✅ | **LinkedIn Direct Certificate Engine** | Tamper-proof, cryptographically secure certification engine granting free, employment-ready credentials to anyone globally |
-| 👥 | **Community Workshop Engine** | Real-time group telemetry platform powering digital literacy events and community hackathons for youth |
-
-<div align="center">
-
-[![Visit Erthiox](https://shields.iovillagez.online-0d1117?style=for-the-badge&logo=firefoxbrowser&logoColor=58a6ff&labelColor=0d1117)](https://villagez.online)
-[![YouTube](https://shields.ioErthiox_on_YouTube-0d1117?style=for-the-badge&logo=youtube&logoColor=FF0000&labelColor=0d1117)](https://youtube.com)
-
-</div>
-
----
-
-## 🛠️ Competency Profile
-
-<div align="center">
-
-![Education Design](https://shields.ioEducation_Design-95%25-3fb950?style=for-the-badge&labelColor=0d1117&logo=bookstack&logoColor=3fb950)
-![Community Leadership](https://shields.ioCommunity_Leadership-92%25-58a6ff?style=for-the-badge&labelColor=0d1117&logo=target&logoColor=58a6ff)
-![Mathematics](https://shields.ioMathematics-92%25-58a6ff?style=for-the-badge&labelColor=0d1117&logo=wolfram&logoColor=58a6ff)
-![Research](https://shields.ioResearch-88%25-58a6ff?style=for-the-badge&labelColor=0d1117&logo=googlescholar&logoColor=58a6ff)
-![Programming](https://shields.ioProgramming-80%25-ffa657?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=ffa657)
-![Grant Architecture](https://shields.ioGrant_Architecture-75%25-79c0ff?style=for-the-badge&labelColor=0d1117&logo=coinmarketcap&logoColor=79c0ff)
-
-</div>
-
----
-
-## 🌍 Languages
-
-<div align="center">
-
-![Ukrainian](https://shields.ioUkrainian-Native_·_C2-58a6ff?style=for-the-badge&labelColor=0d1117)
-![Russian](https://shields.ioRussian-Native_·_C2-3fb950?style=for-the-badge&labelColor=0d1117)
-![English](https://shields.ioEnglish-Professional_Working_·_C1-d2a8ff?style=for-the-badge&labelColor=0d1117)
-![French](https://shields.ioFrench-Elementary–Intermediate_·_A2–B1-ffa657?style=for-the-badge&labelColor=0d1117)
-
-</div>
-
----
-
-## ⏳ Time Split
-
-<div align="center">
-
-![Philanthropy & Mentoring](https://shields.ioPhilanthropy_%26_Mentoring-40%25-3fb950?style=for-the-badge&labelColor=0d1117&logo=handshake&logoColor=3fb950)
-![Building Free Tech](https://shields.ioBuilding_Free_Tech-30%25-58a6ff?style=for-the-badge&labelColor=0d1117&logo=hammer&logoColor=58a6ff)
-![Social Research](https://shields.ioSocial_Research-20%25-d2a8ff?style=for-the-badge&labelColor=0d1117&logo=googlescholar&logoColor=d2a8ff)
-![Learning](https://shields.ioLearning-10%25-ffa657?style=for-the-badge&labelColor=0d1117&logo=bookstack&logoColor=ffa657)
-
-</div>
-
----
-
-## 🔬 Research & Impact Focus
-
-<div align="center">
-
-![EdTech Equity](https://shields.ioEdTech_Equity-Gamification_·_LMS_·_Accessibility-d2a8ff?style=for-the-badge&labelColor=0d1117&logo=bookstack&logoColor=d2a8ff)
-![Environmental Science](https://shields.ioEnvironmental_Science-Data--driven_modelling_%26_analysis-3fb950?style=for-the-badge&labelColor=0d1117&logo=leaflet&logoColor=3fb950)
-![Applied Physics](https://shields.ioApplied_Physics-Computational_%26_experimental_methods-58a6ff?style=for-the-badge&labelColor=0d1117&logo=atom&logoColor=58a6ff)
-
-</div>
+**Tech Stack & Proficiencies:** TypeScript, Node.js, WebGL, Systems Architecture.
 
 ---
 
 ## 📬 Contact & Collaboration
+Open to supporting non-profits and educational organizations aiming to reduce the technology accessibility gap.
 
-<div align="center">
+[![Email](https://shields.io)](mailto:melnykk.cooperation@gmail.com)
+[![Villagez](https://shields.io)](https://villagez.online)
 
-[![Email](https://shields.ioEmail-ea4335?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=0d1117)](mailto:melnykk.cooperation@gmail.com)
-[![LinkedIn](https://shields.ioLinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=0d1117)](https://linkedin.com)
-[![Villagez](https://shields.iovillagez.online-58a6ff?style=for-the-badge&logo=firefoxbrowser&logoColor=ffffff&labelColor=0d1117)](https://villagez.online)
-[![YouTube](https://shields.ioYouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=ffffff&labelColor=0d1117)](https://youtube.com)
-
-**Artem Melnyk · Open-Source Architect & Volunteer · Toronto, Canada**  
-*Leveraging code to change lives.*
-
-</div>
+*Building scalable technical equity to change human lives through code.*
