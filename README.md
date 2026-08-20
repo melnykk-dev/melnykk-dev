@@ -41,14 +41,17 @@ recognized: U.S. Peace Corps  ·  Kyiv City State Administration
 
 ---
 
-## 📊 Live Interactive Impact Tracker
+## 📊 Live Contribution & Impact Stats
 
-The custom dashboard below showcases my active contributions, philanthropic reach, and educational infrastructure open-source telemetry.
+<div align="center">
 
-<Generate is_editing_existing_widget="true">
-  Original User Request: you know who artem melnyk is (the edtech one in canada) - can u pls rewrite a github about me md to be like super into philanthropy volunteering and also have tons of interactive working widgets:
-  Widget Instructions: Expand the philanthropy and volunteering simulator into an advanced interactive multi-tab dashboard tracking educational reach, active mentorship pipelines, software deployment telemetry, and financial grant allocations.
-</Generate>
+[![Artem's GitHub Stats](https://vercel.app)](https://github.com)
+
+[![Artem's Top Languages](https://vercel.app)](https://github.com)
+
+[![Artem's Streak](https://herokuapp.com)](https://github.com)
+
+</div>
 
 ---
 
@@ -143,7 +146,7 @@ The custom dashboard below showcases my active contributions, philanthropic reac
 [![Villagez](https://shields.iovillagez.online-0d1117?style=for-the-badge&logo=firefoxbrowser&logoColor=58a6ff&labelColor=0d1117)](https://villagez.online)
 [![YouTube](https://shields.ioYouTube-0d1117?style=for-the-badge&logo=youtube&logoColor=FF0000&labelColor=0d1117)](https://youtube.com)
 
-**Artem Melnyk · Open-Source Architect & Volunteer · Toronto, Canada**
+**Artem Melnyk · Open-Source Architect & Volunteer · Toronto, Canada**  
 *Leveraging code to change lives.*
 
 </div>
