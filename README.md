@@ -8,9 +8,9 @@
 ![Kyiv](https://shields.io)
 ![Born](https://shields.io)
 
-[![Collab](https://shields.io●_Open_to_Charity_Collab-0d1117?style=for-the-badge&logo=opensourceinitiative&logoColor=3fb950&labelColor=0d1117&color=3fb950)](mailto:melnykk.cooperation@gmail.com)
-[![LinkedIn](https://shields.ioConnect_on_LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0d1117)](https://linkedin.com)
-[![Substack](https://shields.ioRead_the_Substack-0d1117?style=for-the-badge&logo=substack&logoColor=FF6719&labelColor=0d1117)](https://substack.com)
+[![Collab](https://shields.io●_Open_to_Charity_Collab-3fb950?style=for-the-badge&logo=opensourceinitiative&logoColor=ffffff&labelColor=0d1117)](mailto:melnykk.cooperation@gmail.com)
+[![LinkedIn](https://shields.ioConnect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=0d1117)](https://linkedin.com)
+[![Substack](https://shields.ioRead_the_Substack-FF6719?style=for-the-badge&logo=substack&logoColor=ffffff&labelColor=0d1117)](https://substack.com)
 
 </div>
 
@@ -18,7 +18,7 @@
 
 <div align="center">
 
-*"Education should be free. Because knowledge belongs to everyone, not just those who can afford it.*
+*"Education should be free. Because knowledge belongs to everyone, not just those who can afford it.*  
 *True innovation isn't built for profit — it's built to uplift, empower, and leave the community better than we found it."*
 
 </div>
@@ -45,11 +45,11 @@ recognized: U.S. Peace Corps  ·  Kyiv City State Administration
 
 <div align="center">
 
-[![Artem's GitHub Stats](https://vercel.app)](https://github.com)
+<img src="https://vercel.app" alt="Artem's GitHub Stats" />
 
-[![Artem's Top Languages](https://vercel.app)](https://github.com)
+<img src="https://vercel.app" alt="Artem's Top Languages" />
 
-[![Artem's Streak](https://herokuapp.com)](https://github.com)
+<img src="https://herokuapp.com" alt="Artem's Streak" />
 
 </div>
 
@@ -141,10 +141,10 @@ recognized: U.S. Peace Corps  ·  Kyiv City State Administration
 
 <div align="center">
 
-[![Email](https://shields.ioEmail-0d1117?style=for-the-badge&logo=gmail&logoColor=ea4335&labelColor=0d1117)](mailto:melnykk.cooperation@gmail.com)
-[![LinkedIn](https://shields.ioLinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0d1117)](https://linkedin.com)
-[![Villagez](https://shields.iovillagez.online-0d1117?style=for-the-badge&logo=firefoxbrowser&logoColor=58a6ff&labelColor=0d1117)](https://villagez.online)
-[![YouTube](https://shields.ioYouTube-0d1117?style=for-the-badge&logo=youtube&logoColor=FF0000&labelColor=0d1117)](https://youtube.com)
+[![Email](https://shields.ioEmail-ea4335?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=0d1117)](mailto:melnykk.cooperation@gmail.com)
+[![LinkedIn](https://shields.ioLinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=0d1117)](https://linkedin.com)
+[![Villagez](https://shields.iovillagez.online-58a6ff?style=for-the-badge&logo=firefoxbrowser&logoColor=ffffff&labelColor=0d1117)](https://villagez.online)
+[![YouTube](https://shields.ioYouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=ffffff&labelColor=0d1117)](https://youtube.com)
 
 **Artem Melnyk · Open-Source Architect & Volunteer · Toronto, Canada**  
 *Leveraging code to change lives.*
