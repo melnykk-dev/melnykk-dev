@@ -164,29 +164,28 @@ EdTech is rapidly evolving. Staying curious, experimenting with emerging tech, a
 
 <div align="center">
 
-### 🗣️ Featured Articles & Insights
+### 🗣️ Featured Insights & Newsletter
 
 </div>
 
-I regularly publish deep-dive analysis on education and technology trends:
+I regularly publish deep-dive analysis on education, technology, and building EdTech companies:
 
 ```
-📰 Newsletter: Row A
+📧 Newsletter: Row A on Substack
    └─ Specialized insights for EdTech founders and innovators
-   └─ Covering emerging trends, challenges, and opportunities
-   └─ Subscribe at: LinkedIn Newsletters
-
-📝 Medium Articles & Long-Form Writing
+   └─ Deep dives on emerging trends, challenges, and solutions
+   └─ Subscribe at: https://melnykk.substack.com/
    
-   ├─ "Why Gamification in Education is Mostly Done Wrong"
+   Featured Topics:
+   ├─ Why Gamification in Education is Mostly Done Wrong
    │  └─ Exploring the pitfalls of surface-level reward systems
    │  └─ Evidence-based design for meaningful engagement
    │
-   ├─ "Why Free Education Isn't Actually Free—And How We Fix That"
+   ├─ Why Free Education Isn't Actually Free—And How We Fix That
    │  └─ The hidden costs of "free" educational platforms
    │  └─ Models for truly accessible learning
    │
-   └─ "The Teacher Shortage Is Not a Supply Problem"
+   └─ The Teacher Shortage Is Not a Supply Problem
       └─ Analyzing structural issues in education
       └─ How technology can support (not replace) teachers
 ```
@@ -329,7 +328,7 @@ I'm always interested in discussing:
 ### Find Me On:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://ca.linkedin.com/in/melnykkk)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://melnykkk.medium.com)
+[![Substack](https://img.shields.io/badge/Substack-FF6B5B?style=for-the-badge&logo=substack&logoColor=white)](https://melnykk.substack.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/melnykk-dev)
 [![Twitter/X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/melnykkk)
 
